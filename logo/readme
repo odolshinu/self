@@ -1,0 +1,2 @@
+This is a mini implimentation of LOGO in Python.
+Includes mainly two methods, forward() to move the turtle a steps in the current direction and rotate_turtle() to rotate the turtle in the given angle. Also include supplimentary methods like pen_down, pen_up, hide and show the turtle.
