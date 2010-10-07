@@ -1,0 +1,2 @@
+The is a pseudocode in C showing a very simple implementation of select system call.
+select system call is used for sychronous I/O multiplexing. Basic idea from the man page of the same.
